@@ -1,5 +1,3 @@
-![](https://img.shields.io/github/downloads/Thundermaker300/Scp096Notifications/total?style=for-the-badge)
-![](https://img.shields.io/github/commit-activity/m/Thundermaker300/Scp096Notifications?style=for-the-badge)
 ## Scp096 Notifications
 Display notifications when a user views SCP-096's face (and display a message to SCP-096 when they gain a new target).
 
